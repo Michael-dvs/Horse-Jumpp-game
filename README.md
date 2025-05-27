@@ -2,8 +2,7 @@
 
 Sebuah game *endless runner* sederhana yang dibuat dengan Pygame, di mana seekor kuda pemberani harus melompati rintangan kaktus untuk meraih skor tertinggi.
 
-![Gameplay Kuda Loncat](httpsis-is-a-placeholder-replace-with-your-gameplay.gif)
-> **Penting:** Ganti `link-ini-dengan-gif-gameplay-anda.gif` dengan screenshot atau, lebih baik lagi, GIF animasi dari game Anda agar terlihat lebih menarik!
+![Gameplay Kuda Loncat]([httpsis-is-a-placeholder-replace-with-your-gameplay.gif](https://github.com/Michael-dvs/Horse-Jumpp-game/blob/main/ezgif.com-optimize.gif))
 
 ---
 
